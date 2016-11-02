@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43894" started-at="2016-11-02T08:43:51Z" finished-at="2016-11-02T08:44:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43894" started-at="2016-11-02T08:43:51Z" finished-at="2016-11-02T08:44:35Z">
+      <class name="com.rodan.test.RodanTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.rodan.test.RodanTest@4cc0edeb]" name="beforeTest" is-config="true" duration-ms="7187" started-at="2016-11-02T14:13:51Z" finished-at="2016-11-02T14:13:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testFunc()[pri:0, instance:com.rodan.test.RodanTest@4cc0edeb]" name="testFunc" duration-ms="20027" started-at="2016-11-02T14:13:58Z" finished-at="2016-11-02T14:14:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFunc -->
+        <test-method status="PASS" signature="testFunc2()[pri:0, instance:com.rodan.test.RodanTest@4cc0edeb]" name="testFunc2" duration-ms="15658" started-at="2016-11-02T14:14:18Z" finished-at="2016-11-02T14:14:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFunc2 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.rodan.test.RodanTest@4cc0edeb]" name="afterTest" is-config="true" duration-ms="1001" started-at="2016-11-02T14:14:34Z" finished-at="2016-11-02T14:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.rodan.test.RodanTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
